@@ -1,6 +1,6 @@
-require_relative 'bike'
+ require_relative 'bike'
 
-class DockingStation
+ class DockingStation
   attr_reader :bikes
 
   def release_bike
