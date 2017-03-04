@@ -1,8 +1,8 @@
 # Boris Bikes
 
-A Week 1 Project
+A [Makers Academy course challenge](https://github.com/makersacademy).
 
-# Authors
+## Authors
 
 * Sam McKay
 * Stefan Liute
