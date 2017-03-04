@@ -7,7 +7,7 @@ Version 1/3. See [version 2/3](https://github.com/Holden4/boris-bikes-day2) and 
 ## How to Use
 ```
 $ git clone https://github.com/sliute/boris-bikes.git
-$ cd 
+$ cd boris-bikes
 $ rspec
 $ irb
 ```
